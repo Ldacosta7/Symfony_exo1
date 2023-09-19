@@ -1,0 +1,56 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello MangaController!{% endblock %}
+
+{% block body %}
+<style>
+    .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+    .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+</style>
+
+<div class="container">
+    <h1>Welcome here </h1>
+
+    <img src="{{ asset('images/big_three.jpeg')  }}" width="80%" height="80%" >
+
+    <table class="table table-dark table-striped mt-3">
+        <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nom</th>
+            <th scope="col">Auteurs</th>
+            <th scope="col">Nombre de Tome</th>
+            <th scope="col">Genres</th>
+
+
+        </tr>
+        </thead>
+        <tbody>
+        {% for i in 0..mangas|length-1 %}
+
+            <tr>
+                {% if genres[i] == 'seinen' %}
+                    <th scope="row">{{ i+1 }}</th>
+                    <td>{{ mangas[i] }}</td>
+                    <td>{{ auteurs[i] }}</td>
+                    <td>{{ nbTomes[i] }}</td>
+                    <td class="text-danger">{{ genres[i] }}</td>
+                {% elseif genres[i] == 'shonen' %}
+                    <th scope="row">{{ i+1 }}</th>
+                    <td>{{ mangas[i] }}</td>
+                    <td>{{ auteurs[i] }}</td>
+                    <td>{{ nbTomes[i] }}</td>
+                    <td class="text-primary">{{ genres[i] }}</td>
+                {% elseif genres[i] == 'shojo'%}
+                    <th scope="row">{{ i+1 }}</th>
+                    <td>{{ mangas[i] }}</td>
+                    <td>{{ auteurs[i] }}</td>
+                    <td>{{ nbTomes[i] }}</td>
+                    <td style="color: deeppink">{{ genres[i] }}</td>
+                {% endif %}
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}
