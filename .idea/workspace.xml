@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ee3e149-694a-4217-96dc-aa40c9b6f046" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Entrainement/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/packages/cache.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/preload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/routes/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entrainement/symfony.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Entrainement/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.10/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/composer" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Entrainement/vendor/psr/container" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2VbcGSt0Ayna8j7oTEWoSxP8soR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Applications/MAMP/htdocs/Projet Divers/Symfony_exo1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee3e149-694a-4217-96dc-aa40c9b6f046" name="Changes" comment="" />
+      <created>1695108124668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695108124668</updated>
+      <workItem from="1695108125699" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
