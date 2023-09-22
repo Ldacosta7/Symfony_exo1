@@ -17,6 +17,7 @@ class MangaController extends AbstractController
         $auteurs = ['Eichiro Oda', 'Masashi Kishimoto', 'Masashi Tanaka', 'Kentaro Miura', 'Ken Akamatsu', 'Masami Kuradama', 'Rumiko Takahashi', 'Akira Toriyama'];
         $nbTomes = ['104 (en cours)', '70', '7', '42 (en cours)', '14', '20', '38', '42'];
         $genres = ['shonen', 'shonen', 'seinen', 'seinen', 'shojo', 'shonen', 'shojo', 'shonen'];
+
         return $this->render('manga/index.html.twig', [
             'mangas' => $mangas,
             'auteurs' => $auteurs,
